@@ -141,4 +141,21 @@
 | 15-06         | Knowledge Check Part II
 |               |
 |               |
-| 16            | 
+| 16            | Audit Reporting (General Purpose FS)
+| 16-01         | Introduction to Audit Reporting
+| 16-02         | Independent Auditor's Report - Basic Parts
+| 16-03         | Key Audit Matters and Other Information
+| 16-04         | Modification in the Auditor's Report
+| 16-05         | Comparative Information and Opening Balances
+| 16-06         | Audit of Group FS and Using the Work of An Expert
+| 16-07         | Knowledge Check Part I
+| 16-08         | Knowledge Check Part II
+|               |
+|               |
+| 17            | Other Engagements
+| 17-01         | Introduction to Special Purpose Audit Engagements and PSA 800
+| 17-02         | Reporting on Audits of Single FS and Specific Elements, Accounts or Items of FS
+| 17-03         | Reporting on Summary FS
+| 17-04         | Reporting on Audit Related Services
+| 17-05         | Knowledge Check Part I
+| 17-06         | Knowledge Check Part II
