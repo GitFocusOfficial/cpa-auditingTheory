@@ -159,3 +159,5 @@
 | 17-04         | Reporting on Audit Related Services
 | 17-05         | Knowledge Check Part I
 | 17-06         | Knowledge Check Part II
+---
+Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
